@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>GitHub</title>
+<title>Hello GitHub</title>
 </head>
 <body>
 <form action="hello" method="POST">
